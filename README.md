@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @beatrizeg
-- 👀 I’m interested in Data Analysis, Machine Learning, Project Management and UX Design 
-- 🌱 I’m currently learning UX/UI and Machine Learning
+- 👀 I’m interested in Data Analysis, Machine Learning and Project Management
+- 🌱 I’m currently learning Data Science and Machine Learning
 - 💞️ I’m looking to collaborate on interesting projects
 
 <!---
